@@ -15,6 +15,7 @@ slider_images:
 - "images/slider/cortney.jpg"
 - "images/slider/jvc.jpg"
 
+
 # button
 button:
   enable : true
