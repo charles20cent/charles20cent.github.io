@@ -163,7 +163,7 @@ home = "Accueil"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
-################# english navigation ##################
+################# french navigation ##################
 
 # main menu
 [[Languages.fr.menu.main]]
