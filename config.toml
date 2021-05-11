@@ -82,7 +82,7 @@ icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/somratpro"
 
 [[params.social]]
-icon = "fab fa-twitter"
+icon = "fab fa-vimeo-v"
 link = "https://twitter.com/somratpro"
 
 [[params.social]]

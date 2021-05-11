@@ -5,6 +5,7 @@ image: "images/portfolio/item2.jpg"
 categories: ["design","development"]
 description: "This is meta description."
 draft: false
+favorite: true
 project_info:
 - name: "Client"
   icon: "fas fa-user"
