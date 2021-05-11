@@ -68,7 +68,7 @@ logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "charles"
 
 # Preloader
 [params.preloader]
@@ -135,12 +135,6 @@ url = "portfolio"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
@@ -188,12 +182,6 @@ name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
 
 [[Languages.fr.menu.main]]
 name = "Contact"
