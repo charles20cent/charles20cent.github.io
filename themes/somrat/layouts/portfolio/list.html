@@ -28,20 +28,23 @@
       <div class="col-lg-10 col-md-10 col-sm-10 col-10 mx-auto">
         <div class="row filtr-wrapper wow fadeInUp list" data-wow-duration="1.5s">
           {{ range .Data.Pages }}
+          
           <div class="col-lg-4 col-md-6 col-sm-6 col-12 filtr-item"
             data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-            <div class="item-holder">
-              <a class="image-pop" href="{{ .Params.image | absURL }}" title="{{ .Title | markdownify }}">
-                 <img src="{{ .Params.image | absURL }}" alt="{{ .Title | markdownify }}">
-              </a>
-              <div class="item-caption">
-                <h2 class="mt-2"><a class="text-white" href="{{.Permalink}}">{{ .Title | markdownify }}</a></h2>
-                {{ range .Params.categories }}
-                <p class="mb-0 text-light">{{ . | title }}</p>
-                {{ end }}
-                <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
+              <div class="item-holder">
+                <a class="" title="{{ .Title | markdownify }}" href="{{.Permalink}}">
+                   <img src="{{ .Params.image | absURL }}" alt="{{ .Title | markdownify }}">
+                </a>
+                <a href="{{.Permalink}}">
+                  <div class="item-caption">
+                    <h2 class="mt-2 text-white">{{ .Title | markdownify }}</h2>
+                    {{ range .Params.categories }}
+                    <p class="mb-0 text-light">{{ . | title }}</p>
+                    {{ end }}
+                    <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
+                  </div>
+                </a>
               </div>
-            </div>
           </div>
           {{ end }}
         </div>
