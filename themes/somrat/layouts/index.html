@@ -283,7 +283,7 @@
     {{ with .Content }}<div class="text-white content">{{ . | markdownify }}</div> {{ end }}
     {{ with .Params.button }}
     {{ if .enable }}
-    <a href="{{ .link | absURL}}">{{ .label }}</a>
+    <a href="{{ .link }}">{{ .label }}</a>
     {{ end }}
     {{ end }}
   </div>
@@ -376,6 +376,36 @@
 </section>
 {{ end }}
  End Testimonials -->
+
+<!-- Start Gear -->
+{{ with .GetPage "gear" }}
+<style>{{.Params.custom_css | safeCSS}}</style>
+<section class="services {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="gear">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto col-sm-10">
+        <div class="wow fadeInUp" data-wow-duration="1.5s">
+          <div class="services-heading">
+            <div class="bar"></div>
+            <h1>{{ .Title | markdownify }}</h1>
+          </div>
+          <div class="row">
+            {{ range .Params.service_list }}
+            <div class="col-lg-3 col-sm-3 col-12 services-icon">
+              <div class="service-img">
+                <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
+              </div>
+              <div class="service-label">{{ .name | markdownify }}</div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- End Gear -->
 
 <!-- funfacts -->
 {{ with .GetPage "funfacts"}}
