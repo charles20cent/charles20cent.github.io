@@ -2,27 +2,27 @@
 title : "SERVICES"
 service_list:
 # service item loop
-- name : "Web Development"
+- name : "Réalisation"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic Design"
+- name : "Montage image"
   image : "images/icons/graphic-design.png"
   
 # service item loop
-- name : "Database Management"
+- name : "Montage et mixage son"
   image : "images/icons/dbms.png"
   
 # service item loop
-- name : "Software Development"
+- name : "Motion design"
   image : "images/icons/software-development.png"
   
 # service item loop
-- name : "Digital Marketing"
+- name : "Numérisation VHS/HI8"
   image : "images/icons/marketing.png"
   
 # service item loop
-- name : "Mobile App Development"
+- name : "Captation et diffusion live"
   image : "images/icons/mobile-app.png"
 
 
