@@ -1,5 +1,5 @@
 ---
-title : "GEAR"
+title : "MATÉRIELS"
 service_list:
 # service item loop
 - name : "JVC GY-LS300"

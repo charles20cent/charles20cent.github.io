@@ -157,18 +157,18 @@ copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netli
 
 # main menu
 [[Languages.fr.menu.main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "About me"
+name = "À propos"
 pre = "#"
 url = "about"
 weight = 2
 
 [[Languages.fr.menu.main]]
-name = "Service"
+name = "Services"
 pre = "#"
 url = "service"
 weight = 3
