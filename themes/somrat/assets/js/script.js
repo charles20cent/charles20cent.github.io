@@ -358,4 +358,8 @@
 	/*--------------------------------
 			Others
 	----------------------------------*/
+
+	$(".languageSelecter").click(function handler(e) {
+		this.classList.toggle("open");
+	})
 }(jQuery));

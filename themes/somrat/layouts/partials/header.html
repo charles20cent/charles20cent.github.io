@@ -20,7 +20,7 @@
       </ul>
       <!-- Language List -->
       {{- if .IsTranslated }}
-      <select id="select-language" onchange="location = this.value;">
+      <div id="languageSelecter" class="languageSelecter">
         {{ $siteLanguages := site.Languages}}
         {{ $pageLang := .Page.Lang}}
         {{ range .Page.AllTranslations }}
@@ -29,15 +29,19 @@
         {{ if eq $translation.Lang .Lang }}
         {{ $selected := false }}
         {{ if eq $pageLang .Lang}}
-        <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-        </option>
+          <a class="selected">
+            <img src="/flags/{{.LanguageName}}.png" alt="{{.LanguageName}}">
+            {{ .LanguageName }}
+          </a>
         {{ else }}
-        <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+        <a href="{{ $translation.Permalink }}" class="">
+          <img src="/flags/{{.LanguageName}}.png" alt="{{.LanguageName}}">
+          {{ .LanguageName }}
+        </a>{{ end }}
         {{ end }}
         {{ end }}
         {{ end }}
-        {{ end }}
-      </select>
+      </div>
       {{ end }}
       <!-- /desktop-menu -->
 
