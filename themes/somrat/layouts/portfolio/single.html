@@ -6,7 +6,9 @@
     <div class="row">
       <div class="col-lg-8 mb-4 mb-lg-0">
         <div class="wow fadeInUp" data-wow-duration="1.5s">
+          {{if not .Params.hide_on_single}}
           {{ with .Params.image }}<img src="{{. | absURL}}" alt="image" class="img-fluid w-100 mb-5">{{ end }}
+          {{end}}
           <div class="about-me-text mb-4">
             <h1>{{.Title | markdownify}}</h1>
           </div>

@@ -2,6 +2,7 @@
 title: "Project Title"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item1.jpg"
+hide_on_single: true
 categories: ["design", "development"]
 description: "This is meta description."
 favorite: true
