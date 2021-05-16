@@ -2428,3 +2428,37 @@ textarea.form-control::-webkit-input-placeholder,
   cursor: pointer;
   order: -1;
 }
+
+.skill-progress-bar {
+  /* background-color: blue; */
+  margin-top: 0;
+  max-height: 500px;
+  height: 500px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.skill-progress-bar > .img-fluid {
+  /* background-color: red; */
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
+
+@media screen and (max-width: 990px) {
+  .skill-progress-bar {
+    flex-direction: row;
+    max-height: 440px;
+    height: 440px;
+  }
+  .skill-progress-bar > .img-fluid {
+    /* background-color: red; */
+    width: 80;
+    height: 80px;
+    margin: 15px;
+  }
+}
