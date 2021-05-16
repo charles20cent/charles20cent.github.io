@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://charles20cent.github.io/site/"
+baseURL = "https://www.charlesvincent.fr/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
