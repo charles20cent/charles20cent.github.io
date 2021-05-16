@@ -49,7 +49,7 @@ software:
 
     # software item loop
     - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
+      src: /images/icons/davinci.png
 
     # software item loop
     - name: "DaVinci Resolve"
