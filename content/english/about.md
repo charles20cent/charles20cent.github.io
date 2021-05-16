@@ -31,25 +31,45 @@ experience:
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 ############################### Skill #################################
-skill:
-  enable : true
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+software:
+  enable: true
+  title: "LOGICIELS MAÎTRISÉS"
+  software_list:
+    # software item loop
+    - name: "Premiere Pro"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "After Effects"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "Reaper"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/dbms.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/dbms.png
 
 
 # custom style
