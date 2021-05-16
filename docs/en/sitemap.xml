@@ -41,6 +41,19 @@
                 href="https://www.charlesvincent.fr/en/categories/"
                 />
   </url><url>
+    <loc>https://www.charlesvincent.fr/en/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/"
+                />
+  </url><url>
     <loc>https://www.charlesvincent.fr/en/tags/database/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -260,19 +273,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.charlesvincent.fr/en/categories/sketch/"
-                />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/"
                 />
   </url><url>
     <loc>https://www.charlesvincent.fr/en/tags/</loc>

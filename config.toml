@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.charlesvincent.fr/"
-title = "Somrat | Hugo Portfolio Template"
+title = "Charles Vincent"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -69,7 +69,7 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
+description = "Passionné par la vidéo, j’ai étudié la théorie du cinéma sur les bancs de l’université avant d’aller me former à la pratique audiovisuelle au Québec. De la réalisation d’un documentaire au montage d’une pub en passant par de la captation live multi-caméra, je suis à votre service pour tout type de projet."
 author = "charles"
 
 # Preloader
