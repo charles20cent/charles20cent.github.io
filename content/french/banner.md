@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "Contactez-moi"
+  label : "CONTACTEZ-MOI"
   link : "#contact"
 
 

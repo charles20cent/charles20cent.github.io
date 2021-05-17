@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "pdf/CV.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -33,43 +33,43 @@ experience:
 ############################### Skill #################################
 software:
   enable: true
-  title: "LOGICIELS MAÎTRISÉS"
+  title: "SOFTWARES I USE"
   software_list:
     # software item loop
     - name: "Premiere Pro"
-      src: /images/icons/dbms.png
+      src: /images/icons/premiere1.png
 
     # software item loop
     - name: "After Effects"
-      src: /images/icons/dbms.png
+      src: /images/icons/aftereffects1.png
+
+    # software item loop
+    - name: "Audition"
+      src: /images/icons/audition3.png
+
+    # software item loop
+    - name: "DaVinci Resolve"
+      src: /images/icons/resolve.png
+
+    # software item loop
+    - name: "Photoshop"
+      src: /images/icons/photoshop1.png
 
     # software item loop
     - name: "Reaper"
-      src: /images/icons/dbms.png
+      src: /images/icons/reaper.png
 
     # software item loop
-    - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
+    - name: "Avid Media Composer"
+      src: /images/icons/avidmediaco.png
 
     # software item loop
-    - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
+    - name: "Pinnacle"
+      src: /images/icons/pinnacle.png
 
     # software item loop
-    - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
-
-    # software item loop
-    - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
-
-    # software item loop
-    - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
-
-    # software item loop
-    - name: "DaVinci Resolve"
-      src: /images/icons/dbms.png
+    - name: "Ableton Live"
+      src: /images/icons/live.png
 
 
 # custom style

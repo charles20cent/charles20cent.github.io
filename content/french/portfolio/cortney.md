@@ -1,9 +1,9 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item1.jpg"
+title: "Cortney"
+date: 2021-01-21T12:14:34+06:00
+image: "images/portfolio/cortney/preview.jpg"
 hide_on_single: true
-categories: ["design", "development"]
+categories: ["documentaire"]
 description: "This is meta description."
 favorite: true
 draft: false

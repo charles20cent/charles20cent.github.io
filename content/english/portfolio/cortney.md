@@ -1,25 +1,14 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item1.jpg"
+title: "Cortney"
+date: 2021-01-21T12:14:34+06:00
+image: "images/portfolio/cortney/preview.jpg"
 hide_on_single: true
-categories: ["design", "development"]
+categories: ["documentary"]
 description: "This is meta description."
 favorite: true
 draft: false
 project_info:
-  - name: "Client"
-    icon: "fas fa-user"
-    content: "John Doe"
-  - name: "Project Link"
-    icon: "fas fa-link"
-    content: "https://examplesite.com/"
-  - name: "New Item"
-    icon: "fas fa-globe"
-    content: "Add whatever you want"
-  - name: "Loop Item"
-    icon: "fas fa-redo"
-    content: "This is in a loop"
+
 ---
 
 {{< youtube cuOEKg728MI >}}
@@ -29,6 +18,7 @@ et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
+
 
 #### Project Details
 
@@ -40,6 +30,7 @@ anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit volupta
 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+
 
 #### Project Requirements
 

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2021 Charles Vincent</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.charlesvincent.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.charlesvincent.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>documentaire</title>
+      <link>https://www.charlesvincent.fr/categories/documentaire/</link>
+      <pubDate>Thu, 21 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/categories/documentaire/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>database</title>
       <link>https://www.charlesvincent.fr/categories/database/</link>
@@ -27,15 +36,6 @@
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://www.charlesvincent.fr/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.charlesvincent.fr/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>logo</title>
       <link>https://www.charlesvincent.fr/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
@@ -50,6 +50,15 @@
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
       <guid>https://www.charlesvincent.fr/categories/sketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capsule vidéo</title>
+      <link>https://www.charlesvincent.fr/categories/capsule-vid%C3%A9o/</link>
+      <pubDate>Fri, 13 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/categories/capsule-vid%C3%A9o/</guid>
       <description></description>
     </item>
     

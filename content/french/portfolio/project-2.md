@@ -1,25 +1,17 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item2.jpg"
-categories: ["design","development"]
+title: "editi.ng"
+date: 2019-12-13T12:14:34+06:00
+image: "images/portfolio/editing/editing.jpg"
+hide_on_single: true
+categories: ["documentaire","capsule vidéo"]
 description: "This is meta description."
 draft: false
 favorite: true
 project_info:
-- name: "Client"
-  icon: "fas fa-user"
-  content: "John Doe"
-- name: "Project Link"
-  icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+
 ---
+
+{{< youtube NqxrdjBN3o4 >}}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
