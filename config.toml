@@ -65,8 +65,8 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 #################### default parameters ################################
 [params]
 favicon = "images/favicon.png"
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_light = "images/cvwhite.png"
+logo_dark = "images/cv.png"
 logo_width = "150px"
 # Meta data
 description = "Passionné par la vidéo, j’ai étudié la théorie du cinéma sur les bancs de l’université avant d’aller me former à la pratique audiovisuelle au Québec. De la réalisation d’un documentaire au montage d’une pub en passant par de la captation live multi-caméra, je suis à votre service pour tout type de projet."
@@ -80,23 +80,23 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+link = "https://www.facebook.com/profile.php?id=100013995038935"
 
 [[params.social]]
-icon = "fab fa-vimeo-v"
-link = "https://twitter.com/somratpro"
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UC2yblwsYfMAr9P37vTcuJEQ"
 
 [[params.social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+link = "https://www.instagram.com/bohocene"
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/charles20cent"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/charles-vincent-1726961aa/"
 
 
 ################################### English language #####################################

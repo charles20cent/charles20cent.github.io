@@ -22,13 +22,13 @@ experience:
     - name: "Formation en réalisation documentaire"
       company: "École des Métiers du Cinéma et de la Vidéo"
       duration: "2019-2020"
-      content: "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      content: "Cette formation a pour objectif de former des réalisateurs en cinéma documentaire. Elle vise l’acquisition des savoirs, savoir-faire et savoir-être jugés essentiels à la pratique du métier de réalisateur dans toutes les étapes de la réalisation d’un film et ses différents domaines."
 
     # experience item loop
     - name: "Études de cinéma"
       company: "Université de Caen"
       duration: "2016-2019"
-      content: "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      content: "Enseignement principalement théorique mais aussi pratique conjuguant à la fois une approche esthétique et historique. Elle permet l’acquisition d’une culture générale et d’une méthode de recherche universitaire axées sur les processus de production, l’analyse, la création, la réalisation et la diffusion audiovisuelle."
 
 ############################### Skill #################################
 software:
