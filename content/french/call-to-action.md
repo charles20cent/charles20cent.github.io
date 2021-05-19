@@ -3,7 +3,7 @@ title : "BESOIN D'UN SERVICE?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
-  label : "CONTACTEZ-MOI!"
+  label : "CONTACTEZ-MOI"
   link : "#contact"
 
 
