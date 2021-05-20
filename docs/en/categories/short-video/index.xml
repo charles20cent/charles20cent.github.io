@@ -7,14 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 Charles Vincent</copyright>
-    <lastBuildDate>Fri, 13 Dec 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://www.charlesvincent.fr/en/categories/short-video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Mar 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.charlesvincent.fr/en/categories/short-video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Une enfance britannique</title>
+      <link>https://www.charlesvincent.fr/en/portfolio/enfbritannique/</link>
+      <pubDate>Tue, 10 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/en/portfolio/enfbritannique/</guid>
+      <description>Une enfance britannique, 4min17, 2020
+Project Details Exercice de montage sur le raccord à partir de plusieurs films, ces films étant mes choix personnels.</description>
+    </item>
+    
     <item>
       <title>editi.ng</title>
       <link>https://www.charlesvincent.fr/en/portfolio/editing/</link>
       <pubDate>Fri, 13 Dec 2019 12:14:34 +0600</pubDate>
       
       <guid>https://www.charlesvincent.fr/en/portfolio/editing/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Réalisation personnelle. Voix-off de Julie Thibault.
+Note of intent Après avoir rencontré la monteuse Annie Jean, j’étais dans une dynamique pour devenir monteur au Québec et j’ai lu des ouvrages sur le sujet.</description>
+    </item>
+    
+    <item>
+      <title>Death Sprayer</title>
+      <link>https://www.charlesvincent.fr/en/portfolio/deathsprayer/</link>
+      <pubDate>Sat, 02 Jun 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/en/portfolio/deathsprayer/</guid>
+      <description>Death Sprayer, 3min08, 2018
+Project Details Capsule vidéo réalisée pour la L2 arts du spectacle sur le thème &amp;ldquo;drogue et plantes magiques&amp;rdquo;.</description>
     </item>
     
   </channel>

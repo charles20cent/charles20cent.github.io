@@ -8,34 +8,24 @@ description: "This is meta description."
 favorite: true
 draft: false
 project_info:
-
 ---
 
 {{< youtube cuOEKg728MI >}}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Cortney, 13min, 2021
 
+#### Project Functions
 
-#### Project Details
+Réalisation, prise de vues et son, montage image et étalonnage, montage et mixage son.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+#### Synopsis
 
+À 25 ans, un prodige de l'innovation technologique française décide de bousculer sa vie pour une quête de sens personnelle et collective. 
 
-#### Project Requirements
+#### Projects Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Film de fin d’étude pour la validation de mon AEC au Québec. Néanmoins, avec la situation sanitaire et la situation géographique de mon sujet, j’ai uniquement bénéficié de conseils avisés d’un de mes professeurs.
+
+#### Festival's Selections
+
+*Festival du Film Environnemental de Poitiers, avril 2021<br>*Festival  Ciné-vert  de  Montréal, avril 2021<br>*Festival International du Film d'Environnement FReDD, septembre-octobre 2021

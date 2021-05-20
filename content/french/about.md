@@ -33,7 +33,7 @@ experience:
 ############################### Skill #################################
 software:
   enable: true
-  title: "LOGICIELS MAÎTRISÉS"
+  title: "LOGICIELS UTILISÉS"
   software_list:
     # software item loop
     - name: "Premiere Pro"

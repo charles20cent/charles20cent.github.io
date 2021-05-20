@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musique on Charles Vincent</title>
+    <link>https://www.charlesvincent.fr/categories/musique/</link>
+    <description>Recent content in Musique on Charles Vincent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2021 Charles Vincent</copyright>
+    <lastBuildDate>Sat, 02 Jun 2018 12:14:34 +0600</lastBuildDate><atom:link href="https://www.charlesvincent.fr/categories/musique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>These two people</title>
+      <link>https://www.charlesvincent.fr/portfolio/thesetwopeople/</link>
+      <pubDate>Sat, 02 Jun 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/portfolio/thesetwopeople/</guid>
+      <description>Détails du projet extrait et sample : Paris, Texas de Wim Wenders (1984) son : charles vincent</description>
+    </item>
+    
+  </channel>
+</rss>

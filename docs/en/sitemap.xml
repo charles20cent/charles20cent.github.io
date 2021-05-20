@@ -96,19 +96,6 @@
                 href="https://www.charlesvincent.fr/en/tags/database/"
                 />
   </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/categories/database/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/categories/database/"
-                />
-  </url><url>
     <loc>https://www.charlesvincent.fr/en/tags/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -120,19 +107,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.charlesvincent.fr/en/tags/design/"
-                />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/categories/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/categories/design/"
                 />
   </url><url>
     <loc>https://www.charlesvincent.fr/en/tags/development/</loc>
@@ -148,22 +122,6 @@
                 href="https://www.charlesvincent.fr/en/tags/development/"
                 />
   </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/categories/logo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/categories/logo/"
-                />
-  </url><url>
     <loc>https://www.charlesvincent.fr/en/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -177,61 +135,6 @@
                 href="https://www.charlesvincent.fr/en/blog/"
                 />
   </url><url>
-    <loc>https://www.charlesvincent.fr/en/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/portfolio/project-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/portfolio/project-3/"
-                />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/portfolio/project-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/portfolio/project-4/"
-                />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/portfolio/project-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/portfolio/project-5/"
-                />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/portfolio/project-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/portfolio/project-6/"
-                />
-  </url><url>
     <loc>https://www.charlesvincent.fr/en/tags/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -243,19 +146,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.charlesvincent.fr/en/tags/sketch/"
-                />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/categories/sketch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/categories/sketch/"
                 />
   </url><url>
     <loc>https://www.charlesvincent.fr/en/tags/</loc>
@@ -362,6 +252,73 @@
                 href="https://www.charlesvincent.fr/en/tags/web/"
                 />
   </url><url>
+    <loc>https://www.charlesvincent.fr/en/portfolio/assassins/</loc>
+    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/assassins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/assassins/"
+                />
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/portfolio/calfeutrer/</loc>
+    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/calfeutrer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/calfeutrer/"
+                />
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/portfolio/aubergeinn/</loc>
+    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/aubergeinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/aubergeinn/"
+                />
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/project-support/</loc>
+    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/school-exercise/</loc>
+    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/sound-design/</loc>
+    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/editing/</loc>
+    <lastmod>2020-03-10T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/short-video/</loc>
+    <lastmod>2020-03-10T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/portfolio/enfbritannique/</loc>
+    <lastmod>2020-03-10T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/enfbritannique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/enfbritannique/"
+                />
+  </url><url>
     <loc>https://www.charlesvincent.fr/en/categories/motion-design/</loc>
     <lastmod>2020-02-20T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -374,9 +331,6 @@
                 hreflang="en"
                 href="https://www.charlesvincent.fr/en/categories/motion-design/"
                 />
-  </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/title/</loc>
-    <lastmod>2020-02-20T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://www.charlesvincent.fr/en/portfolio/xrrimouski/</loc>
     <lastmod>2020-02-20T12:14:34+06:00</lastmod>
@@ -404,8 +358,37 @@
                 href="https://www.charlesvincent.fr/en/portfolio/editing/"
                 />
   </url><url>
-    <loc>https://www.charlesvincent.fr/en/categories/short-video/</loc>
-    <lastmod>2019-12-13T12:14:34+06:00</lastmod>
+    <loc>https://www.charlesvincent.fr/en/portfolio/deathsprayer/</loc>
+    <lastmod>2018-06-02T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/deathsprayer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/deathsprayer/"
+                />
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/experimental/</loc>
+    <lastmod>2018-06-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/categories/music/</loc>
+    <lastmod>2018-06-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://www.charlesvincent.fr/en/portfolio/thesetwopeople/</loc>
+    <lastmod>2018-06-02T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/thesetwopeople/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/thesetwopeople/"
+                />
   </url><url>
     <loc>https://www.charlesvincent.fr/en/funfacts/</loc>
     <xhtml:link
