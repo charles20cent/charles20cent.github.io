@@ -3,7 +3,7 @@ title: "XR"
 date: 2020-02-20T12:14:34+06:00
 image: "images/portfolio/xr/xr.jpg"
 hide_on_single: true
-categories: ["motion design"]
+categories: ["motion graphics"]
 description: "This is meta description."
 draft: false
 favorite: true
@@ -13,7 +13,7 @@ project_info:
 
 {{< youtube mz1JZ_bX9Bw >}}
 
-Extinction Rebellion RIMOUSKI, 16 secondes, 2020
+Extinction Rebellion RIMOUSKI, 16 seconds, 2020
 
 
 #### Détails du projet

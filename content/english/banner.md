@@ -8,7 +8,7 @@ bg_image : "images/backgrounds/timeline.webp"
 occupations:
 - "Director"
 - "Editor"
-- "Numerisator"
+- "Digitizer"
 
 # slider background image loop
 slider_images:
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "Contact me"
+  label : "CONTACT ME"
   link : "#contact"
 
 

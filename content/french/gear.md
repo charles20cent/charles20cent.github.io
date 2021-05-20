@@ -3,36 +3,35 @@ title : "MATÉRIELS"
 service_list:
 # service item loop
 - name : "JVC GY-LS300"
-  image : "images/icons/web-development.png"
+  image : "images/icons/broadcasting.png"
+   
+# service item loop
+- name : "Objectifs Olympus Zuiko OM et Sirui Anamorphic"
+  image : "images/icons/camera-lens.png"
+  
+# service item loop
+- name : "Microphones canon Audio-Technica"
+  image : "images/icons/microphone.png"
+  
+# service item loop
+- name : "Microphones HF Audio-Technica"
+  image : "images/icons/hf.png"
+  
+# service item loop
+- name : "Stabilisateur Steadycam Flycam Redking"
+  image : "images/icons/stabilizer.png"
+  
+# service item loop
+- name : "Stabilisateur Rig épaule Neewer"
+  image : "images/icons/rig.png"
 
-- name : "JVC GY-LS300"
-  image : "images/icons/web-development.png"
+  # service item loop
+- name : "Moniteur de terrain 4k Feelworld"
+  image : "images/icons/cameramonitor.png"
 
-- name : "JVC GY-LS300"
-  image : "images/icons/web-development.png"
-
-- name : "JVC GY-LS300"
-  image : "images/icons/web-development.png"
-  
-# service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
-  
-# service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
-  
-# service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
-  
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
+   # service item loop
+- name : "Station de travail Ryzen dernière génération"
+  image : "images/icons/workstation.png"
 
 
 

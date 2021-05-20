@@ -77,4 +77,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Passionné par la vidéo, j'ai étudié la théorie du cinéma sur les bancs de l'université avant d'aller me former à la pratique audiovisuelle au Québec. De la réalisation d'un documentaire au montage d'une pub en passant par de la captation live multi-caméra, je suis à votre service pour tout type de projet.
+Passionné par la vidéo, j'ai étudié la théorie du cinéma sur les bancs de l'université avant d'aller me former à la pratique audiovisuelle au Québec. De la réalisation d'un documentaire au montage d'une pub en passant par de la captation live multi-caméras, je suis à votre service pour tout type de projet.

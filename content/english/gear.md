@@ -2,28 +2,36 @@
 title : "GEAR"
 service_list:
 # service item loop
-- name : "Web Development"
-  image : "images/icons/web-development.png"
+- name : "JVC GY-LS300"
+  image : "images/icons/broadcasting.png"
+   
+# service item loop
+- name : "Olympus OM Zuiko and Sirui Anamorphic lenses"
+  image : "images/icons/camera-lens.png"
   
 # service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
+- name : "Shotgun microphones Audio-Technica"
+  image : "images/icons/microphone.png"
   
 # service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
+- name : "Wireless microphones Audio-Technica"
+  image : "images/icons/hf.png"
   
 # service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
+- name : "Steadycam Flycam Redking stabilizer"
+  image : "images/icons/stabilizer.png"
   
 # service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
+- name : " Shoulder rig Neewer stabilizer"
+  image : "images/icons/rig.png"
+
+  # service item loop
+- name : "4k Feelworld field monitor"
+  image : "images/icons/cameramonitor.png"
+
+   # service item loop
+- name : "Ryzen last generation workstation"
+  image : "images/icons/workstation.png"
 
 
 

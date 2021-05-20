@@ -13,22 +13,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
-      
+    - name : "Director of the movie <I>Cortney</I>"
+      company : "Charles Vincent"
+      duration : "2021"
+      content: "A documentary about an ecologist, selected in some international environmental film festivals."
+
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
+    - name: "Training in documentary filmmaking"
+      company: "École des Métiers du Cinéma et de la Vidéo"
+      duration: "2019-2020"
+      content: "This training aims to train directors in documentary cinema. It aims to acquire knowledge, know-how and interpersonal skills deemed essential to the practice of the profession of director in all stages of the making of a film and its various fields."
+
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name: "Film Studies"
+      company: "University of Caen"
+      duration: "2016-2019"
+      content: "Mainly theoretical but also practical teaching combining both an aesthetic and historical approach. It allows the acquisition of a general culture and a method of university research focused on film production processes, analysis, creation, direction and broadcasting."
 
 ############################### Skill #################################
 software:
@@ -78,4 +78,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Passionate about video, I studied cinema theory at university before going to learn audiovisual practice in Quebec. From the making of a documentary to the editing of an advertisement, including live multi-cam recording, I am at your service for any type of project.

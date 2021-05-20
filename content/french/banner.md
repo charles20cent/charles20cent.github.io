@@ -6,9 +6,9 @@ last_name : "Vincent"
 bg_image : "images/backgrounds/timeline.webp"
 # animated text loop
 occupations:
-- "Réalisation"
-- "Montage"
-- "Numérisation"
+- "Réalisateur"
+- "Monteur"
+- "Numériseur"
 
 # slider background image loop
 slider_images:

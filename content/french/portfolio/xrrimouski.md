@@ -3,7 +3,7 @@ title: "XR"
 date: 2020-02-20T12:14:34+06:00
 image: "images/portfolio/xr/xr.jpg"
 hide_on_single: true
-categories: ["motion design"]
+categories: ["animation graphique"]
 description: "This is meta description."
 draft: false
 favorite: true

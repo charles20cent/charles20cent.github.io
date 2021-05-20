@@ -2,28 +2,28 @@
 title : "SERVICES"
 service_list:
 # service item loop
-- name : "Web Development"
-  image : "images/icons/web-development.png"
+- name : "Documentary and corporate directing"
+  image : "images/icons/directing.png"
   
 # service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
+- name : "Film editing and color grading"
+  image : "images/icons/video.png"
   
 # service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
+- name : "Sound editing and mixing"
+  image : "images/icons/soundediting.png"
   
 # service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
+- name : "Motion graphics"
+  image : "images/icons/motion-graphics.png"
   
 # service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
+- name : "Numérisation VHS/VHS-C/HI8"
+  image : "images/icons/vhs-tape.png"
   
 # service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
+- name : "Live recording and broadcast"
+  image : "images/icons/livestreaming.png"
 
 
 

@@ -125,7 +125,7 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Service"
+name = "Services"
 pre = "#"
 url = "service"
 weight = 3

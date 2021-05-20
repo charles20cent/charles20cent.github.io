@@ -3,27 +3,27 @@ title : "SERVICES"
 service_list:
 # service item loop
 - name : "Réalisation documentaire et corpo"
-  image : "images/icons/web-development.png"
+  image : "images/icons/directing.png"
   
 # service item loop
-- name : "Montage image"
-  image : "images/icons/graphic-design.png"
+- name : "Montage et étalonnage image"
+  image : "images/icons/video.png"
   
 # service item loop
 - name : "Montage et mixage son"
-  image : "images/icons/dbms.png"
+  image : "images/icons/soundediting.png"
   
 # service item loop
-- name : "Motion design"
-  image : "images/icons/software-development.png"
+- name : "Animation graphique"
+  image : "images/icons/motion-graphics.png"
   
 # service item loop
-- name : "Numérisation VHS/HI8"
-  image : "images/icons/marketing.png"
+- name : "Numérisation VHS/VHS-C/HI8"
+  image : "images/icons/vhs-tape.png"
   
 # service item loop
 - name : "Captation et diffusion live"
-  image : "images/icons/mobile-app.png"
+  image : "images/icons/livestreaming.png"
 
 
 
