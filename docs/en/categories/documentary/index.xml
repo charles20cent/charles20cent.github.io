@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 Charles Vincent</copyright>
-    <lastBuildDate>Thu, 21 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.charlesvincent.fr/en/categories/documentary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.charlesvincent.fr/en/categories/documentary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Cortney</title>
       <link>https://www.charlesvincent.fr/en/portfolio/cortney/</link>
