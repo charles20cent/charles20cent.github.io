@@ -2481,3 +2481,9 @@ textarea.form-control::-webkit-input-placeholder,
   top: 0;
   z-index: 0;
 }
+
+.menu .logo,
+.mobile-menu-logo img {
+  height: 42px;
+  width: auto;
+}

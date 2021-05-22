@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.charlesvincent.fr/portfolio/assassins/</loc>
+    <lastmod>2021-04-28T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/assassins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/assassins/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.charlesvincent.fr/categories/</loc>
-    <lastmod>2021-01-21T12:14:34+06:00</lastmod>
+    <lastmod>2021-04-28T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +34,7 @@
   
   <url>
     <loc>https://www.charlesvincent.fr/</loc>
-    <lastmod>2021-01-21T12:14:34+06:00</lastmod>
+    <lastmod>2021-04-28T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,6 +44,31 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.charlesvincent.fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.charlesvincent.fr/categories/conception-sonore/</loc>
+    <lastmod>2021-04-28T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.charlesvincent.fr/categories/exercice-d%C3%A9cole/</loc>
+    <lastmod>2021-04-28T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.charlesvincent.fr/portfolio/</loc>
+    <lastmod>2021-04-28T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.charlesvincent.fr/en/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.charlesvincent.fr/portfolio/"
                 />
   </url>
   
@@ -50,21 +90,6 @@
   <url>
     <loc>https://www.charlesvincent.fr/categories/documentaire/</loc>
     <lastmod>2021-01-21T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.charlesvincent.fr/portfolio/</loc>
-    <lastmod>2021-01-21T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/portfolio/"
-                />
   </url>
   
   <url>
@@ -298,21 +323,6 @@
   </url>
   
   <url>
-    <loc>https://www.charlesvincent.fr/portfolio/assassins/</loc>
-    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.charlesvincent.fr/en/portfolio/assassins/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.charlesvincent.fr/portfolio/assassins/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.charlesvincent.fr/portfolio/calfeutrer/</loc>
     <lastmod>2020-04-28T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -325,16 +335,6 @@
                 hreflang="fr"
                 href="https://www.charlesvincent.fr/portfolio/calfeutrer/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.charlesvincent.fr/categories/conception-sonore/</loc>
-    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.charlesvincent.fr/categories/exercice-d%C3%A9cole/</loc>
-    <lastmod>2020-04-28T12:14:34+06:00</lastmod>
   </url>
   
   <url>

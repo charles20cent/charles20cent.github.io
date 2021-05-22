@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2021 Charles Vincent</copyright>
-    <lastBuildDate>Thu, 21 Jan 2021 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 12:14:34 +0600</lastBuildDate>
     
 	<atom:link href="https://www.charlesvincent.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>conception sonore</title>
+      <link>https://www.charlesvincent.fr/categories/conception-sonore/</link>
+      <pubDate>Wed, 28 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/categories/conception-sonore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exercice d&#39;école</title>
+      <link>https://www.charlesvincent.fr/categories/exercice-d%C3%A9cole/</link>
+      <pubDate>Wed, 28 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.charlesvincent.fr/categories/exercice-d%C3%A9cole/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>documentaire</title>
@@ -27,24 +45,6 @@
       <pubDate>Tue, 28 Apr 2020 12:14:34 +0600</pubDate>
       
       <guid>https://www.charlesvincent.fr/categories/accompagnement-de-projet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conception sonore</title>
-      <link>https://www.charlesvincent.fr/categories/conception-sonore/</link>
-      <pubDate>Tue, 28 Apr 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.charlesvincent.fr/categories/conception-sonore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>exercice d&#39;école</title>
-      <link>https://www.charlesvincent.fr/categories/exercice-d%C3%A9cole/</link>
-      <pubDate>Tue, 28 Apr 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.charlesvincent.fr/categories/exercice-d%C3%A9cole/</guid>
       <description></description>
     </item>
     
