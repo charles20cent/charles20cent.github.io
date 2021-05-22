@@ -362,4 +362,9 @@
 	$(".languageSelecter").click(function handler(e) {
 		this.classList.toggle("open");
 	})
+
+	/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+	particlesJS.load('particles', 'plugins/particles.json', function() {
+		console.log('callback - particles.js config loaded');
+	});
 }(jQuery));

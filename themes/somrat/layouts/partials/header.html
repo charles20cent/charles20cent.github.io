@@ -20,7 +20,7 @@
       </ul>
       <!-- Language List -->
       {{- if .IsTranslated }}
-      <div id="languageSelecter" class="languageSelecter">
+      <div id="languageSelecter" class="languageSelecter light">
         {{ $siteLanguages := site.Languages}}
         {{ $pageLang := .Page.Lang}}
         {{ range .Page.AllTranslations }}

@@ -246,6 +246,7 @@
 {{ with .GetPage "service" }}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="services {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="service">
+  <div id="particles"></div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto col-sm-10">

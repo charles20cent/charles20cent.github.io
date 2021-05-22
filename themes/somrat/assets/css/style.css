@@ -1195,6 +1195,15 @@ ul.experience-chart h4 {
 .portfolio {
   background: #fff;
   padding: 70px 0px;
+  position: relative;
+}
+
+.portfolio .container-fluid {
+  z-index: 2;
+}
+
+.portfolio .particles-js-canvas-el {
+  z-index: 0;
 }
 
 .portfolio h1 {
@@ -1216,7 +1225,8 @@ ul.experience-chart h4 {
 }
 
 .filtering {
-  width: 100%;
+  width: 70vw;
+  margin-left: 15vw;
   padding: 25px 0px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2120,7 +2130,10 @@ textarea.form-control::-webkit-input-placeholder,
 /*--------------------------------
   Start Services
 ----------------------------------*/
-
+.services {
+  position: relative;
+  background-color: rgb(240, 240, 240);
+}
 @media (min-width: 526px) and (max-width: 767px) {
   .services-icon img {
     width: 100%;
@@ -2461,4 +2474,10 @@ textarea.form-control::-webkit-input-placeholder,
     height: 80px;
     margin: 15px;
   }
+}
+
+.particles-js-canvas-el {
+  position: absolute;
+  top: 0;
+  z-index: 0;
 }
