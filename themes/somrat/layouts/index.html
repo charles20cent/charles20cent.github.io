@@ -331,7 +331,6 @@
                     {{ range .Params.categories }}
                     <p class="mb-0 text-light">{{ . | title }}</p>
                     {{ end }}
-                    <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
                   </div>
                 </a>
               </div>
@@ -339,7 +338,7 @@
           {{ end }}
         </div>
         <div class="text-center wow fadeInUp mt-4" data-wow-duration="1.5s">
-          <a href="{{`portfolio` | absURL}}" class="btn btn-primary">See More</a>
+          <a href="{{`portfolio` | absURL}}" class="btn btn-primary">{{ site.Params.more_work }}</a>
         </div>
       </div>
     </div>
@@ -406,7 +405,7 @@
 <!-- End Gear -->
 
 <!-- funfacts -->
-{{ with .GetPage "funfacts"}}
+<!-- {{ with .GetPage "funfacts"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="wow fadeInUp section-sm {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s">
   <div class="container position-relative z-index-9">
@@ -427,7 +426,7 @@
     </div>
   </div>
 </section>
-{{ end }}
+{{ end }} -->
 <!-- end funfacts -->
 
 <!-- Start Contact -->

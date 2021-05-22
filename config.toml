@@ -106,6 +106,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
+more_work = "See more of my work"
 # copyright
 copyright = "Copyright &copy; 2021 Charles Vincent"
 
@@ -150,6 +151,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
+more_work = "Voir tous mes travaux"
 # copyright
 copyright = "Copyright &copy; 2021 Charles Vincent"
 
