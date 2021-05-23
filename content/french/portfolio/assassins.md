@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Creed"
-date: 2021-04-28T12:14:34+06:00
+date: 2020-04-28T12:14:34+06:00
 image: "images/portfolio/assassins/assassins.jpg"
 hide_on_single: true
 categories: ["conception sonore","exercice d'école"]

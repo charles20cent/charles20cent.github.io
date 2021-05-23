@@ -65,8 +65,8 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 #################### default parameters ################################
 [params]
 favicon = "images/favicon.png"
-logo_light = "images/cvwhite.png"
-logo_dark = "images/cv.png"
+logo_light = "images/diaphblanc.png"
+logo_dark = "images/diaphnoirpetit.png"
 logo_width = "150px"
 # Meta data
 description = "Passionné par la vidéo, j’ai étudié la théorie du cinéma sur les bancs de l’université avant d’aller me former à la pratique audiovisuelle au Québec. De la réalisation d’un documentaire au montage d’une pub en passant par de la captation live multi-caméra, je suis à votre service pour tout type de projet."

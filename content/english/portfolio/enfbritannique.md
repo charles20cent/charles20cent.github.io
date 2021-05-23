@@ -1,7 +1,7 @@
 ---
 title: "Une enfance britannique"
 date: 2020-03-10T12:14:34+06:00
-image: "images/portfolio/enfbritannique/enfbritannique.bmp"
+image: "images/portfolio/enfbritannique/enfbritannique.jpg"
 hide_on_single: true
 categories: ["editing","short video","school exercise"]
 description: "This is meta description."
