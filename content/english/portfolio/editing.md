@@ -1,7 +1,7 @@
 ---
 title: "editi.ng"
 date: 2019-12-13T12:14:34+06:00
-image: "images/portfolio/editing/editing.jpg"
+image: "images/portfolio/editing/editi.jpg"
 hide_on_single: true
 categories: ["short video"]
 description: "This is meta description."
