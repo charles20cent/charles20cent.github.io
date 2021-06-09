@@ -2,7 +2,7 @@
 title: "Cortney"
 date: 2021-01-21T12:14:34+06:00
 image: "images/portfolio/cortney/preview.jpg"
-hide_on_single: true
+hide_on_single: false
 categories: ["documentary"]
 description: "This is meta description."
 favorite: true
@@ -10,9 +10,9 @@ draft: false
 project_info:
 ---
 
-{{< youtube cuOEKg728MI >}}
 
-Cortney, 13min, 2021
+Cortney, 13min, 2021<br>TRAILER IS COMING
+
 
 #### Project Functions
 
@@ -28,4 +28,4 @@ Film de fin d’étude pour la validation de mon AEC au Québec. Néanmoins, ave
 
 #### Festival's Selections
 
-*Festival du Film Environnemental de Poitiers, avril 2021<br>*Festival  Ciné-vert  de  Montréal, avril 2021<br>*Festival International du Film d'Environnement FReDD, septembre-octobre 2021
+*Festival du Film Environnemental, Poitiers, mars 2021<br>*Festival  Ciné-vert, Montréal, avril 2021<br> *Festival Cinéma sous les étoiles, Montréal, été 2021<br>*Festival International du Film d'Environnement FReDD, Toulouse, septembre-octobre 2021
